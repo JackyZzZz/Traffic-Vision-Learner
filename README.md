@@ -18,6 +18,9 @@ git clone https://github.com/JackyZzZz/traffic.git
 cd traffic
 ```
 
+### Dataset
+Download the [data set](https://cdn.cs50.net/ai/2020/spring/projects/5/gtsrb.zip) for this project and unzip it. Move the resulting __gtsrb__ directory inside of your **traffic** directory.
+
 ### Install dependencies
 ```
 pip3 install -r requirements.txt
